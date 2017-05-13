@@ -1,8 +1,8 @@
 var grid;
 var next;
 
-var dA = 1;
-var dB = 0.5;
+var dA = 1.1;
+var dB = 0.4;
 var feed = 0.055;
 var k = 0.062;
 
