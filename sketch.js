@@ -7,7 +7,7 @@ var feed = 0.055;
 var k = 0.062;
 
 function setup() {
-    createCanvas(200, 200);
+    createCanvas(800, 800);
     pixelDensity(1);
     grid = [];
     next = [];
